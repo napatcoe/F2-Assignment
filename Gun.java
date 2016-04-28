@@ -63,6 +63,7 @@ public class Gun extends Sprite{
 	public int getType(){
 		return itemType;
 	}
+	
 }
  
 
